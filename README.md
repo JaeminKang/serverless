@@ -36,4 +36,10 @@ Key, value를 저장하는 db
 5. Serverless Crawler
 6. Serverless RESTful API
 
-## 참고 사이트 : https://github.com/seunghokimj/python-serverless-crawler-demo
+## 실습1 serverless crawler
+
+https://github.com/seunghokimj/python-serverless-crawler-demo
+
+## 실습2 serverless restful api
+
+https://github.com/seunghokimj/python-serverless-todo-demo
