@@ -43,3 +43,5 @@ https://github.com/seunghokimj/python-serverless-crawler-demo
 ## 실습2 serverless restful api
 
 https://github.com/seunghokimj/python-serverless-todo-demo
+
+### 실습은 Cloud9에서 진행!
